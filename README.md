@@ -15,10 +15,6 @@ Dynamic Content Loading: Movie data is fetched dynamically from an API, providin
 
 ## 📸 Screenshots
 <img width="938" alt="Netflix-1" src="https://github.com/Saurajit-Nayak/Netflix_Clone/assets/129572543/96cf3e2a-0a42-40b8-ad5e-ae580d525e7b">
-![image](https://user-images.githubusercontent.com/79099734/156505592-42d7e884-e72c-41b8-8efe-856d1aeaf4b1.png)
-![image](https://user-images.githubusercontent.com/79099734/156505619-e344eb2f-9298-4f76-8d59-d0f6a4f108dc.png)
-![image](https://user-images.githubusercontent.com/79099734/156505658-675daf0b-fe7d-4490-8d1c-ab030527ecf5.png)
-![image](https://user-images.githubusercontent.com/79099734/156505698-04ab760c-9ef1-4da2-b921-4c3e65ef0789.png)
-![image](https://user-images.githubusercontent.com/79099734/156505771-6929b1f2-1aed-4da4-bb7a-092404589241.png)
-![image](https://user-images.githubusercontent.com/79099734/156505809-309a6824-5d85-4cc0-9ffd-95d66fb2cf5e.png)
-
+<img width="931" alt="netflix-s04 final" src="https://github.com/Saurajit-Nayak/Netflix_Clone/assets/129572543/2f7b0b26-7d4f-4d9d-9cb0-d8d6a6d1abc4">
+<img width="935" alt="netflix-s05 final" src="https://github.com/Saurajit-Nayak/Netflix_Clone/assets/129572543/776b61ed-b11b-40a0-a5e9-8aa51fc1b2a6">
+<img width="928" alt="netflixs06" src="https://github.com/Saurajit-Nayak/Netflix_Clone/assets/129572543/47011e5c-7148-4de5-87f5-0419596494fd">
