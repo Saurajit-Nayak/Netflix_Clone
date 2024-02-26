@@ -15,6 +15,9 @@ Dynamic Content Loading: Movie data is fetched dynamically from an API, providin
 
 ## 📸 Screenshots
 <img width="938" alt="Netflix-1" src="https://github.com/Saurajit-Nayak/Netflix_Clone/assets/129572543/96cf3e2a-0a42-40b8-ad5e-ae580d525e7b">
+<br>
 <img width="931" alt="netflix-s04 final" src="https://github.com/Saurajit-Nayak/Netflix_Clone/assets/129572543/2f7b0b26-7d4f-4d9d-9cb0-d8d6a6d1abc4">
+<br>
 <img width="935" alt="netflix-s05 final" src="https://github.com/Saurajit-Nayak/Netflix_Clone/assets/129572543/776b61ed-b11b-40a0-a5e9-8aa51fc1b2a6">
+<br>
 <img width="928" alt="netflixs06" src="https://github.com/Saurajit-Nayak/Netflix_Clone/assets/129572543/47011e5c-7148-4de5-87f5-0419596494fd">
